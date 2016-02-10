@@ -175,7 +175,7 @@ Media Queries de CSS3
 
     #menu a#pull {
         display:block;
-        background-color:#283744;
+        background-color:rgb(176, 9, 9);
         width:100%;
         position:relative;
         text-align:left;
