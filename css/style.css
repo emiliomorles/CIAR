@@ -65,7 +65,7 @@ a:hover {
 #menu ul {
     padding: 0;
     height: 40px;
-    width: 600px;
+    width: 100px;
 }
 
 #menu li {
@@ -105,17 +105,6 @@ a:hover {
     display: none;
 }
 
-/*slideshow*/
-#slideshow {
-    width: 100%;
-    height: auto;
-}
-
-.slide {
-    width: 100%;
-    height: auto;
-}
-
 /*imagenes*/
 #D-imag {
     width: 400px;
@@ -139,14 +128,14 @@ a:hover {
 /*Foter*/
 footer {
     height: 40px;
-    background-color: #000000;
-    margin-top: 40px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 60px;
     color: rgb(255, 255, 255);
-    font-weight: 800;
-    font-size: 25px;
+    font-weight: 600;
+    font-size: 1.5em;
     letter-spacing: 2px;
     text-align: center;
-    padding: 40px;
+    padding: 20px;
 }
 
 /******************************************************************************************************************************
